@@ -7,3 +7,4 @@
 Demonstração e exercícios CSS externo - turma T4
 
 ![Imagem muito legal](./Imagem_legal.png)
+<img src="./Imagem_legal.png" alt="Imagem muito legal">
