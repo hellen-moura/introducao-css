@@ -4,13 +4,9 @@ O Cascading Style Sheets (CSS) é uma linguagem de folha de estilo usada para de
 
 ### Estrutura do Projeto
 
-```plaintext
-/css
-  ├── style.css
-/index.html
 
 
-# introducao-css
+
 ## Este é um arquivo com a extensão .md
 ### O Redme.md serve para mostrar informações do projeto a quem acessar o meu repositório
 
