@@ -1,3 +1,15 @@
+# Introdução ao CSS
+
+O Cascading Style Sheets (CSS) é uma linguagem de folha de estilo usada para descrever a apresentação de um documento HTML. Com o CSS, é possível controlar o layout, as cores, as fontes e outros aspectos visuais de uma página web.
+
+### Estrutura do Projeto
+
+```plaintext
+/css
+  ├── style.css
+/index.html
+
+
 # introducao-css
 ## Este é um arquivo com a extensão .md
 ### O Redme.md serve para mostrar informações do projeto a quem acessar o meu repositório
